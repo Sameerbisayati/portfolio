@@ -20,7 +20,6 @@ import React from "react";
  * freely use on your site.
  */
 import image from "../images/design-desk.jpeg";
-
 const imageAltText = "desktop with books and laptop";
 
 /**
@@ -31,28 +30,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: " TIC TAC TOE GAME🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "TIC TAC TOE GAME using html,css and javascript",
+    url: "http://127.0.0.1:5500/javascript/project2.html",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Currency converter",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Currency converter using html,css and javascript",
+    url: "http://127.0.0.1:5500/javascript/project4.html",
   },
   {
-    title: "My Resume Site",
+    title: "Rock paper scissor game",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Game using html,css and javascript",
+    url: "http://127.0.0.1:5500/javascript/project3.html",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Amazon Clone",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Clone using html and css",
+    url: "file:///C:/Users/Appex/Desktop/HTML/project/project%20amazon%20clone/project.html",
   },
 ];
 

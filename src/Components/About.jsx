@@ -17,14 +17,13 @@ import React from "react";
  * freely use on your site.
  */
 import image from "../images/motion-background.jpg";
-
 const imageAltText = "purple and blue abstract background";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a BCA student studying at Tilak Maharashtra Vidyapeeth,enjoying new things and working on my coding skills ";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "As a BCA 2nd-year student, I specialize in web development with HTML, CSS, JavaScript, Tailwind CSS, and GitHub, along with a strong foundation in C and C++. Passionate about creating efficient and visually appealing websites, I strive to continuously improve my skills. 'First, solve the problem. Then, write the code.' – John Johnson.";
 
 const About = () => {
   return (
